@@ -1,4 +1,4 @@
-# Building Virtual Reality Room
+# Virtual Reality Room
 
 - Created a game called 'Escaping room', which is really hot offline game these days.
 
@@ -51,4 +51,6 @@
   - More meshes (Add locks on the objects)
  
 - Image
+
+<img width="640" alt="Screen Shot 2019-12-14 at 9 16 01 PM" src="https://user-images.githubusercontent.com/23174275/75495314-3e13cd00-598c-11ea-9da9-d238c0c05cbc.png">
 
