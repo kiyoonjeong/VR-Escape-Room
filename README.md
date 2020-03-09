@@ -1,6 +1,6 @@
 # Virtual Reality Room
 
-- Created an VR version of 'Escape room'
+- Created a VR version of 'Escape room'
 
 - Basic Rules
 
@@ -12,37 +12,37 @@
 - Concept of Game
 
   - The player has a special ability called psychometry (an ability to read objects' memory or vision)
-    - If you select some objects, they will give you the hint to solve the questions
-    - The other objects would contains direct hints or problems
-    - In this game, there is only one problem to be solved. If you solve it, the stair will come out, which means success to escape.
+    - If you select objects, they will give you the hint to solve the quizzes
+    - Some objects contain direct hints or extra problems to solve
+    - Once you solve all the problems a stair will pop up. This means you have cleared the game!
 
 - Room Design
 
-  - Size : X= (-10, 10), Y = (-10, 10), Z = (-10, 20)
+  - Size : X = (-10, 10), Y = (-10, 10), Z = (-10, 20)
   - Only one player(person) is in the room
   - Starting Eye Position : (0, -3, 12)
-  - If player sit, the eye position is changed to (0, -6, 12)
-  - Player can move forward, backward, left, and right. Also, the view direction can also be changed up, down, left, and right
-  - There is restriction on moving area and view direction to make it real
-  - View range : X = (-2, 2), Y = (-2, 2), Z= (-3, -40)
-  - Objects : Table, sofa, fireplace, bunny, clocks, ball, cubes and stair
+  - If a player sits on the floor, the eye position changes to (0, -6, 12)
+  - A player can move forward, backward, left, and right. Also, the view direction can be changed up, down, left, and right
+  - There is restriction on moving area and view direction for a realistic effect
+  - View range : X = (-2, 2), Y = (-2, 2), Z = (-3, -40)
+  - Objects : Table, sofa, fireplace, bunny, clocks, ball, cubes and stairs
   
 - How to solve it [Hints]
 
   - Some objects contains hints
   - It will give you the image if you select it
   - The cubes with the numbers are the direct hint
-  - You need to search the whole cubes in this room first to solve the question
+  - You need to search all the cubes in this room first to solve the question
   - These cubes are movable, scalable, and rotatable
-  - If you see the ceiling, there are 7 fireballs
-  - If you click it, its color would be changed. These are the problems to be solved
-  - If the answer is correct, the stair will come out
+  - If you see the ceiling there are 7 fireballs
+  - If you click it, its color will change. These are the main problems of this game.
+  - If you successfully match all the colors, the stairs will come out
 
 - Textures & Lighting
 
-  - I used 9 textures. All objects contain only one texture except fireplace. It is consisted of brick, concrete, and wood
+  - There are 9 textures. All objects contain only one texture except the fireplace. The fireplace consists of brick, concrete, and wood
   - Light position : (0,0,0)
-  - For shading, I added up the phong value (power of 32)
+  - For shading the phong values are added up (power of 32)
 
 - Next Step / Possible Improvement
 
