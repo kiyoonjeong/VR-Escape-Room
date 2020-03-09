@@ -1,17 +1,17 @@
 # Virtual Reality Room
 
-- Created a game called 'Escaping room', which is really hot offline game these days.
+- Created an online version of 'Escape room'
 
 - Basic Rules
 
-  - Escape room in a given time
-  - Room is consisted of several objects. Some could be touched and moved, but some don’t. 
-  - Also, some objects contains the hint, and some don’t. 
-  - Based on the hints you found, you should find the way to solve the quiz. (Finding quiz is also one of the quiz)
+  - Escape a room in a given time
+  - Room is consisted of several objects. Some can be touched and moved, but some can't.
+  - Also, some objects contains a hint, and some don’t. 
+  - Based on the hints you found, you should find the way to solve the quiz which can help you escape the room.
   
 - Concept of Game
 
-  - The player has a special ability called psychometry, which enable player to read the objects memory(or vision)
+  - The player has a special ability called psychometry (an ability to read objects' memory or vision)
     - If you select some objects, they will give you the hint to solve the questions
     - The other objects would contains direct hints or problems
     - In this game, there is only one problem to be solved. If you solve it, the stair will come out, which means success to escape.
