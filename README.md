@@ -1,6 +1,6 @@
 # Virtual Reality Room
 
-- Created a VR version of 'Escape room'
+- VR version of 'escape room' game
 
 - Basic Rules
 
